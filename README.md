@@ -5,17 +5,28 @@
 
 ## 다운로드
 
-[최신 배포 보기](https://github.com/MincheolShin/mobi-life-connector-releases/releases/latest)
+[최신 인스톨러와 변경 내용](https://github.com/MincheolShin/mobi-life-connector-releases/releases/latest)
 
-현재 첫 공개 배포를 준비하고 있습니다. 아직 게시된 인스톨러는 없습니다.
-배포 후 각 버전의 Releases 페이지에서 변경 내용과 `AI_Connector_Setup.exe`를 확인할 수 있습니다.
+현재 배포 버전: **v1.2.0**
+
+Releases의 Assets에서 `AI_Connector_Setup.exe`를 내려받아 실행하세요.
+기존 사용자는 실행 중인 작업과 앱을 종료하고 기존 설치 경로에 설치하세요.
+개인 메모와 설정 파일은 보존됩니다.
+
+## 앱에서 업데이트
+
+v1.2.0부터 상단 **업데이트** 버튼으로 최신 버전과 변경 내용을 확인할 수 있습니다.
+새 버전이 있으면 **다운로드 및 설치**를 선택하세요.
+진행 중인 작업을 종료한 상태에서 파일을 검증하고 앱을 종료해 설치한 뒤 다시 실행합니다.
+
+업데이트 버튼이 없는 이전 버전은 v1.2.0 설치 파일로 먼저 설치해야 합니다.
 
 ## 실행 환경
 
 - Windows PC
 - 마비노기 모바일 및 게임 연동 CLI
 
-## 배포 방식
+## 파일 검증
 
-버전별 인스톨러는 GitHub Releases의 첨부 파일로 제공합니다.
-앱 내 업데이트 확인·다운로드·설치 기능은 아직 구현되지 않았습니다.
+각 릴리스에는 설치 파일과 `AI_Connector_Setup.exe.sha256`을 함께 제공합니다.
+앱은 공식 배포 주소·파일 크기·SHA256을 확인한 뒤 설치합니다.
