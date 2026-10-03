@@ -1,4 +1,4 @@
-# AI(아님)커넥터 — MabiOverlay
+# 모비 생활 커넥터 — MabiOverlay
 
 마비노기 모바일 CLI와 연동하는 Windows 오버레이 HUD의 공식 배포 저장소입니다.
 채집, 스마트 제작, 가공 재료, 제작 대기열 및 반복 가공을 지원합니다.
@@ -7,9 +7,9 @@
 
 [최신 인스톨러와 변경 내용](https://github.com/MincheolShin/mobi-life-connector-releases/releases/latest)
 
-현재 배포 버전: **v1.2.1**
+현재 배포 버전: **v1.3.0**
 
-Releases의 Assets에서 `AI_Connector_Setup.exe`를 내려받아 실행하세요.
+Releases의 Assets에서 `MobiLifeConnector_Setup.exe`를 내려받아 실행하세요.
 기존 사용자는 실행 중인 작업과 앱을 종료하고 기존 설치 경로에 설치하세요.
 개인 메모와 설정 파일은 보존됩니다.
 
@@ -20,7 +20,8 @@ v1.2.1부터 앱 시작 시 새 버전을 확인하고, 업데이트가 있으�
 새 버전이 있으면 **다운로드 및 설치**를 선택하세요.
 진행 중인 작업을 종료한 상태에서 파일을 검증하고 앱을 종료해 설치한 뒤 다시 실행합니다.
 
-업데이트 버튼이 없는 이전 버전은 v1.2.0 설치 파일로 먼저 설치해야 합니다.
+업데이트 버튼이 없는 이전 버전은 최신 설치 파일로 설치하세요.
+기존 업데이트 호환용 `AI_Connector_Setup.exe`는 새 이름 설치 파일과 내용이 동일합니다.
 
 ## 실행 환경
 
