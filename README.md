@@ -7,7 +7,7 @@
 
 [최신 인스톨러와 변경 내용](https://github.com/MincheolShin/mobi-life-connector-releases/releases/latest)
 
-현재 배포 버전: **v1.2.0**
+현재 배포 버전: **v1.2.1**
 
 Releases의 Assets에서 `AI_Connector_Setup.exe`를 내려받아 실행하세요.
 기존 사용자는 실행 중인 작업과 앱을 종료하고 기존 설치 경로에 설치하세요.
@@ -16,6 +16,7 @@ Releases의 Assets에서 `AI_Connector_Setup.exe`를 내려받아 실행하세�
 ## 앱에서 업데이트
 
 v1.2.0부터 상단 **업데이트** 버튼으로 최신 버전과 변경 내용을 확인할 수 있습니다.
+v1.2.1부터 앱 시작 시 새 버전을 확인하고, 업데이트가 있으면 상단 버튼이 초록색으로 표시됩니다.
 새 버전이 있으면 **다운로드 및 설치**를 선택하세요.
 진행 중인 작업을 종료한 상태에서 파일을 검증하고 앱을 종료해 설치한 뒤 다시 실행합니다.
 
